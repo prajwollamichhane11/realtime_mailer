@@ -21,5 +21,5 @@ example: 0 7 20 1 0 python3 ~/Desktop/realtime_mailer.py
 
 
 
-So, what this example did was ran the realtime-mailer.py in 20th of January Sunday at exactly 7:00 in the morning.
+So, what this example did was ran the realtime_mailer.py in 20th of January Sunday at exactly 7:00 in the morning.
 
