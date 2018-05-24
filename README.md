@@ -10,7 +10,7 @@ Libraries Used: smtplib, time, subprocess
 
 Creating The Daemon Process:
 
-Use of Chrontab:
+Use of Crontab:
 
 
 #min hr dom moy dow COMMAND
